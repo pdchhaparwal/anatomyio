@@ -6,7 +6,7 @@ These pressing questions represent some of the most significant challenges in me
 
 At Anatomy.io, we're revolutionizing the medical research landscape by creating a digital and intelligent replica of the human body, driven by AI. Our platform models the human body at multiple levels, from organ systems to tissues, cells, and molecules. Our goals are threefold: 1) Streamline drug development, saving time and resources; 2) Simulate real-world drug tests and diagnostics with precision; and 3) Deliver accurate results to pharmaceutical companies, research institutes, and doctors.
 
-<img width="615" alt="image" src="https://github.com/pdchhaparwal/anatomyio/assets/29160326/cc5175d5-ed67-42d9-bdae-2aebd29f4670">
+<img width="1000" alt="image" src="https://github.com/pdchhaparwal/anatomyio/assets/29160326/cc5175d5-ed67-42d9-bdae-2aebd29f4670">
 
 
 | Indicator              | Organ System                                      | Measured Entity                            |

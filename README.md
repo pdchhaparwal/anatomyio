@@ -1,2 +1,2 @@
-# anatomyio
+# Anatomy.io
 
